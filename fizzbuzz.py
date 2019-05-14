@@ -4,6 +4,7 @@ def fizzbuzz():
             print('fizz')
         elif not i % 5:
             print('buzz')
+            
         else:
             print(i)
 
