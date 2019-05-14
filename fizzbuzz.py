@@ -1,6 +1,17 @@
 def twofer(who = 'you'):
     return f'one for {who}, one for me'
 
+def limerick():
+  lim_list = ['Był skrzypek rodem z Prabutów,',
+              'miał nogi za duże do butów.',
+              'Wszystkie go uwierały,',
+              'więc nosił futerały',
+              'od skrzypiec zamiast butów.']
+  for line in lim-list:
+      print(line)
+
+
+
 def fizzbuzz():
     for i in range(1, 101):
         if not i % 3 and not i % 5:
@@ -15,6 +26,7 @@ def fizzbuzz():
 
 if __name__ == '__main__':
     while True:
+        name = input('give me your name')
         fizzbuzz()
         shall_continue = input('Print again?')
         if shall_continue.lower() != 'y'
