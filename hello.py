@@ -1,3 +1,3 @@
 def hello:
-    print('hello world!')
+    print('dzień dobry, cześć i czołem!')
 
