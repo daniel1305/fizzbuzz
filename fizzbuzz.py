@@ -9,8 +9,9 @@ def fizzbuzz():
             print('fizz')
         elif not i % 5:
             print('buzz')
-            
+
         else:
-            print(i)
+            print(i
 
-
+            if __name__ == '__main__':
+                fizzbuzz()
