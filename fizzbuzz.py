@@ -8,6 +8,11 @@ def fizzbuzz():
             print('buzz')
             
         else:
-            print(i)
+            print(i
+
+if __name__ == '__main__':
+    fizzbuzz()
+
+
 
 
